@@ -8,7 +8,7 @@
 
 name: Merge-upstream
 
-on:
+#on:
   push:
     branches: 
       - master
